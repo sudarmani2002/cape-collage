@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.col{
+    background-color: white;
+    border: 3px solid white;
+    border-radius: 8px;
+    margin: 20px;
+}
+.container{
+   
+    padding: 48px;
+}
+.backgroundcolor{
+    background-image: url(blue\ bag.jpg);
+    height: 50%;
+
+}
+.col-12{
+    background-color: white;
+    border: 3px solid rgb(226, 204, 204);
+    border-radius: 8px;
+    margin: 20px;
+
+}
+.logo{
+    width: 90px;
+    height: 70px;
+}
+.grade{
+    width: 180px;
+    height: 80px;
+    float: left;
+    display: block;
+}
+.about_image{
+    border-radius: 40px;
+    border: none;
+}
+.about{
+    text-align: justify;
+    color: white;
+    font-size: 23px;
+    border-left: 6px solid orange;
+    padding-left: 8%;
+}
+.c{
+    background-color: red;
+    border: none;
+    color: white;
+    font-size: 25px;
+}
+.de{
+    height: 150px;
+    width: 150px;
+
+}
+.department1{
+    margin-top: -65px;
+    background-color: rgba(255, 255, 255, 0.281);
+}
+.department{
+    background-color: rgba(255, 255, 255, 0.281);
+}
